@@ -1,1 +1,2 @@
 echo "hi"
+echo cs1,cs2,cs3
